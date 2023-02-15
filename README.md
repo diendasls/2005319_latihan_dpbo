@@ -1,1 +1,3 @@
-# 2005319_latihan_dpbo
+# LATIHAN 2 DPBO - INHERITANCE BAGIAN 1
+
+## Java
