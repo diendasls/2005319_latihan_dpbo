@@ -5,3 +5,6 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
 ## Java
 Menampilkan List keterangan Mahasiswa dengan class pewarisan dari human -> sivitas akademik -> mahasiswa
+  file ini menampilkan keterangan salah satu mahasiswa di univ X1:D
+- class mahasiswa turunan dari class sivitas akademik karena termasuk dari salah satu sivitas akademika dalam perkuliahan
+- kedua class sivitas akademik dan class mahasiswa turunan dari base class human
